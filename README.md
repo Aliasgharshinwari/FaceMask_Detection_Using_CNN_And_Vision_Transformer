@@ -15,7 +15,7 @@ This project uses the **[Kaggle Face Mask Detection Dataset](https://www.kaggle.
 This project implements an end-to-end face mask detection pipeline:
 1. **Data preprocessing** and augmentation  
 2. **Model training** (CNN and ViT)  
-3. **Performance evaluation** (accuracy, confusion matrix, etc.)  
+3. **Performance evaluation** (accuracy, etc.)  
 4. **Real-time webcam inference** using OpenCV  
 
 ---
