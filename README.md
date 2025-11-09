@@ -1,4 +1,4 @@
-# 😷 Face Mask Detection using CNN & Vision Transformer
+# Face Mask Detection using CNN & Vision Transformer
 
 A **real-time face mask detection system** built using **PyTorch** with **Convolutional Neural Networks (CNN)** and **Vision Transformers (ViT)**.  
 The model detects whether a person is:
@@ -10,7 +10,7 @@ This project uses the **[Kaggle Face Mask Detection Dataset](https://www.kaggle.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project implements an end-to-end face mask detection pipeline:
 1. **Data preprocessing** and augmentation  
