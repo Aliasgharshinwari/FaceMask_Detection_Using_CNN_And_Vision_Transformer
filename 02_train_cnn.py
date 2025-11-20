@@ -10,7 +10,7 @@ from dataset_loader import create_dataloaders
 # =====================================================
 # CONFIGURATION
 # =====================================================
-DATASET_ROOT = "../dataset"
+DATASET_ROOT = ""
 IMG_SIZE = 224
 NUM_CLASSES = 3
 EPOCHS = 5
